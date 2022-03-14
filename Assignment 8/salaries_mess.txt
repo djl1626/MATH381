@@ -1,0 +1,4435 @@
+1	
+ 	
+Mike Trout
+ LAA
+CF	29	$37,166,667
+2	
+ 	
+Jacob deGrom
+ NYM
+SP	33	$36,000,000
+ 	
+Gerrit Cole
+ NYY
+SP	30	$36,000,000
+4	
+ 	
+Nolan Arenado
+ STL
+3B	30	$35,025,000
+5	
+ 	
+Stephen Strasburg
+ WSH
+SP	32	$35,000,000
+ 	
+Zack Greinke
+ HOU
+SP	37	$35,000,000
+7	
+ 	
+Max Scherzer
+ LAD
+SP	36	$34,603,480
+8	
+ 	
+Justin Verlander
+ HOU
+SP	38	$33,000,000
+9	
+ 	
+Manny Machado
+ SD
+3B	28	$32,000,000
+ 	
+David Price
+ LAD
+SP	35	$32,000,000
+11	
+ 	
+Trevor Bauer
+ LAD
+SP	30	$31,333,333
+12	
+ 	
+Clayton Kershaw
+ LAD
+SP	33	$31,000,000
+13	
+ 	
+Miguel Cabrera
+ DET
+DH	38	$30,000,000
+ 	
+Chris Sale
+ BOS
+SP	32	$30,000,000
+15	
+ 	
+Jose Altuve
+ HOU
+2B	31	$29,000,000
+ 	
+Giancarlo Stanton
+ NYY
+DH	31	$29,000,000
+17	
+ 	
+Anthony Rendon
+ LAA
+3B	31	$28,071,428
+18	
+ 	
+Bryce Harper
+ PHI
+RF	28	$28,038,462
+19	
+ 	
+Paul Goldschmidt
+ STL
+1B	33	$26,000,000
+20	
+ 	
+Joey Votto
+ CIN
+1B	37	$25,000,000
+21	
+ 	
+Patrick Corbin
+ WSH
+SP	31	$24,416,666
+22	
+ 	
+George Springer
+ TOR
+CF	31	$23,666,666
+23	
+ 	
+Jason Heyward
+ CHC
+RF	31	$23,500,000
+24	
+ 	
+Justin Upton
+ LAA
+LF	33	$23,000,000
+25	
+ 	
+Wil Myers
+ SD
+LF	30	$22,500,000
+ 	
+Zack Wheeler
+ PHI
+SP	31	$22,500,000
+ 	
+Mookie Betts
+ LAD
+RF	28	$22,500,000
+28	
+ 	
+Freddie Freeman
+ ATL
+1B	31	$22,409,375
+29	
+ 	
+Francisco Lindor
+ NYM
+SS	27	$22,300,000
+30	
+ 	
+Buster Posey
+ SF
+C	34	$22,202,777
+31	
+ 	
+Yu Darvish
+ SD
+SP	34	$22,000,000
+32	
+ 	
+Charlie Blackmon
+ COL
+RF	35	$21,333,333
+33	
+ 	
+Eric Hosmer
+ SD
+1B	31	$21,000,000
+ 	
+Josh Donaldson
+ MIN
+3B	35	$21,000,000
+ 	
+Johnny Cueto
+ SF
+SP	35	$21,000,000
+36	
+ 	
+Hyun-Jin Ryu
+ TOR
+SP	34	$20,000,000
+ 	
+Andrew McCutchen
+ PHI
+LF	34	$20,000,000
+ 	
+J.T. Realmuto
+ PHI
+C	30	$20,000,000
+ 	
+Xander Bogaerts
+ BOS
+SS	28	$20,000,000
+ 	
+Kenley Jansen
+ LAD
+RP	33	$20,000,000
+41	
+ 	
+Kris Bryant
+ SF
+3B	29	$19,500,000
+42	
+ 	
+J.D. Martinez
+ BOS
+DH	33	$19,350,000
+43	
+ 	
+Madison Bumgarner
+ ARI
+SP	31	$19,000,000
+44	
+ 	
+Marcus Stroman
+ NYM
+SP	30	$18,900,000
+ 	
+Kevin Gausman
+ SF
+SP	30	$18,900,000
+46	
+ 	
+Matt Carpenter
+ STL
+3B	35	$18,500,000
+ 	
+Kyle Seager
+ SEA
+3B	33	$18,500,000
+ 	
+Evan Longoria
+ SF
+3B	35	$18,500,000
+ 	
+Trevor Story
+ COL
+SS	28	$18,500,000
+50	
+ 	
+Yasmani Grandal
+ CHW
+C	32	$18,250,000
+51	
+ 	
+Marcus Semien
+ TOR
+SS	30	$18,000,000
+ 	
+Dallas Keuchel
+ CHW
+SP	33	$18,000,000
+ 	
+A.J. Pollock
+ LAD
+LF	33	$18,000,000
+54	
+ 	
+Jose Abreu
+ CHW
+1B	34	$17,666,666
+55	
+ 	
+Brandon Belt
+ SF
+1B	33	$17,200,000
+ 	
+Aroldis Chapman
+ NYY
+RP/CL	33	$17,200,000
+57	
+ 	
+Nathan Eovaldi
+ BOS
+SP	31	$17,000,000
+58	
+ 	
+Miles Mikolas
+ STL
+SP	32	$16,750,000
+59	
+ 	
+Yusei Kikuchi
+ SEA
+SP	30	$16,500,000
+ 	
+Dexter Fowler
+ LAA
+RF	35	$16,500,000
+ 	
+Anthony Rizzo
+ NYY
+1B	31	$16,500,000
+62	
+ 	
+Cody Bellinger
+ LAD
+CF	25	$16,100,000
+63	
+ 	
+Lorenzo Cain
+ MIL
+CF	35	$16,000,000
+ 	
+Craig Kimbrel
+ CHW
+RP	33	$16,000,000
+ 	
+Michael Brantley
+ HOU
+LF	34	$16,000,000
+ 	
+Marcell Ozuna
+ ATL
+LF	30	$16,000,000
+67	
+ 	
+Danny Duffy
+ LAD
+SP	32	$15,500,000
+68	
+ 	
+Brandon Crawford
+ SF
+SS	34	$15,200,000
+69	
+ 	
+Alex Cobb
+ LAA
+SP	33	$15,000,000
+ 	
+D.J. LeMahieu
+ NYY
+3B	32	$15,000,000
+ 	
+Charlie Morton
+ ATL
+SP	37	$15,000,000
+72	
+ 	
+Jean Segura
+ PHI
+SS	31	$14,850,000
+73	
+ 	
+Salvador Perez
+ KC
+C	31	$14,200,000
+74	
+ 	
+Nick Castellanos
+ CIN
+RF	29	$14,075,000
+75	
+ 	
+Mike Moustakas
+ CIN
+3B	32	$14,000,000
+ 	
+Kyle Hendricks
+ CHC
+SP	31	$14,000,000
+ 	
+Christian Yelich
+ MIL
+LF	29	$14,000,000
+78	
+ 	
+Corey Seager
+ LAD
+SS	27	$13,750,000
+79	
+ 	
+Nelson Cruz
+ TB
+DH	40	$13,000,000
+ 	
+Zack Britton
+ NYY
+RP	33	$13,000,000
+ 	
+Will Smith
+ ATL
+RP/CL	31	$13,000,000
+ 	
+Trea Turner
+ LAD
+SS	28	$13,000,000
+83	
+ 	
+Didi Gregorius
+ PHI
+SS	31	$12,750,000
+84	
+ 	
+Alex Bregman
+ HOU
+3B	27	$12,666,666
+85	
+ 	
+Starling Marte
+ OAK
+CF	32	$12,500,000
+86	
+ 	
+Rougned Odor
+ NYY
+2B	27	$12,333,333
+87	
+ 	
+Michael Conforto
+ NYM
+RF	28	$12,250,000
+ 	
+Aaron Nola
+ PHI
+SP	28	$12,250,000
+89	
+ 	
+Andrew Miller
+ STL
+RP	36	$12,000,000
+ 	
+Carlos Carrasco
+ NYM
+SP	34	$12,000,000
+ 	
+Justin Turner
+ LAD
+3B	36	$12,000,000
+92	
+ 	
+Carlos Martinez
+ STL
+SP	29	$11,700,000
+ 	
+Carlos Correa
+ HOU
+SS	26	$11,700,000
+94	
+ 	
+Jeurys Familia
+ NYM
+RP	31	$11,666,668
+95	
+ 	
+Kevin Kiermaier
+ TB
+CF	31	$11,666,666
+96	
+ 	
+Javier Baez
+ NYM
+SS	28	$11,650,000
+97	
+ 	
+Kyle Gibson
+ PHI
+SP	33	$11,500,000
+98	
+ 	
+Liam Hendriks
+ CHW
+RP/CL	32	$11,333,333
+99	
+ 	
+Blake Snell
+ SD
+SP	28	$11,100,000
+100	
+ 	
+Miguel Sano
+ MIN
+1B	28	$11,000,000
+ 	
+Trevor Rosenthal
+ OAK
+RP	31	$11,000,000
+ 	
+Corey Kluber
+ NYY
+SP	35	$11,000,000
+ 	
+Drew Smyly
+ ATL
+SP	32	$11,000,000
+104	
+ 	
+Eugenio Suarez
+ CIN
+3B	29	$10,785,714
+ 	
+Aaron Hicks
+ NYY
+CF	31	$10,785,714
+106	
+ 	
+Avisail Garcia
+ MIL
+RF	30	$10,750,000
+ 	
+Luis Severino
+ NYY
+SP	27	$10,750,000
+108	
+ 	
+Andrelton Simmons
+ MIN
+SS	31	$10,500,000
+ 	
+Brad Hand
+ NYM
+RP	31	$10,500,000
+110	
+ 	
+Odubel Herrera
+ PHI
+CF	29	$10,350,000
+111	
+ 	
+Randal Grichuk
+ TOR
+RF	29	$10,333,333
+112	
+ 	
+Aaron Judge
+ NYY
+RF	29	$10,175,000
+113	
+ 	
+Sonny Gray
+ CIN
+SP	31	$10,166,666
+114	
+ 	
+Michael Pineda
+ MIN
+SP	32	$10,000,000
+ 	
+Taijuan Walker
+ NYM
+SP	28	$10,000,000
+116	
+ 	
+Noah Syndergaard
+ NYM
+SP	28	$9,700,000
+117	
+ 	
+Corey Dickerson
+ TOR
+LF	32	$9,500,000
+ 	
+Garrett Richards
+ BOS
+RP	33	$9,500,000
+119	
+ 	
+Jose Ramirez
+ CLE
+3B	28	$9,400,000
+120	
+ 	
+Lance Lynn
+ CHW
+SP	34	$9,333,334
+121	
+ 	
+Raisel Iglesias
+ LAA
+RP/CL	31	$9,125,000
+122	
+ 	
+Yadier Molina
+ STL
+C	38	$9,000,000
+ 	
+Jake Odorizzi
+ HOU
+SP	31	$9,000,000
+ 	
+Max Muncy
+ LAD
+1B	30	$9,000,000
+125	
+ 	
+Tommy Pham
+ SD
+LF	33	$8,900,000
+126	
+ 	
+Elvis Andrus
+ OAK
+SS	32	$8,800,000
+127	
+ 	
+Ryan Pressly
+ HOU
+RP/CL	32	$8,750,000
+128	
+ 	
+Zach Davies
+ CHC
+SP	28	$8,630,000
+129	
+ 	
+Joe Kelly
+ LAD
+RP	33	$8,500,000
+ 	
+Juan Soto
+ WSH
+RF	22	$8,500,000
+ 	
+James Paxton
+ SEA
+SP	32	$8,500,000
+ 	
+Yulieski Gurriel
+ HOU
+1B	37	$8,500,000
+133	
+ 	
+Dylan Bundy
+ LAA
+SP	28	$8,325,000
+134	
+ 	
+Eduardo Rodriguez
+ BOS
+SP	28	$8,300,000
+135	
+ 	
+Jorge Soler
+ ATL
+DH	29	$8,250,000
+136	
+ 	
+Wade Miley
+ CIN
+SP	34	$8,150,000
+ 	
+James McCann
+ NYM
+C	31	$8,150,000
+138	
+ 	
+Nick Ahmed
+ ARI
+SS	31	$8,125,000
+139	
+ 	
+Blake Treinen
+ LAD
+RP/CL	33	$8,000,000
+ 	
+Drew Pomeranz
+ SD
+RP	32	$8,000,000
+ 	
+J.A. Happ
+ STL
+SP	38	$8,000,000
+ 	
+Adam Wainwright
+ STL
+SP	39	$8,000,000
+ 	
+Will Harris
+ WSH
+RP	36	$8,000,000
+ 	
+Robbie Ray
+ TOR
+SP	29	$8,000,000
+ 	
+Kole Calhoun
+ ARI
+RF	33	$8,000,000
+ 	
+Trevor May
+ NYM
+RP	31	$8,000,000
+ 	
+Jordan Lyles
+ TEX
+SP	30	$8,000,000
+ 	
+Travis d'Arnaud
+ ATL
+C	32	$8,000,000
+ 	
+Eddie Rosario
+ ATL
+LF	29	$8,000,000
+ 	
+Ian Desmond
+ COL
+CF	35	$8,000,000
+151	
+ 	
+Jack Leiter
+ TEX
+SP	21	$7,922,000
+152	
+ 	
+Chris Taylor
+ LAD
+2B	30	$7,800,000
+ 	
+German Marquez
+ COL
+SP	26	$7,800,000
+154	
+ 	
+Felipe Vazquez
+ PIT
+RP	29	$7,750,000
+155	
+ 	
+Stephen Piscotty
+ OAK
+RF	30	$7,583,333
+156	
+ 	
+David Peralta
+ ARI
+LF	33	$7,500,000
+ 	
+Kolten Wong
+ MIL
+2B	30	$7,500,000
+ 	
+Eduardo Escobar
+ MIL
+3B	32	$7,500,000
+159	
+ 	
+Whit Merrifield
+ KC
+RF	32	$7,450,000
+160	
+ 	
+Carlos Santana
+ KC
+1B	35	$7,250,000
+ 	
+Tim Anderson
+ CHW
+SS	28	$7,250,000
+162	
+ 	
+Adam Ottavino
+ BOS
+RP	35	$7,225,044
+163	
+ 	
+Lance McCullers
+ HOU
+SP	27	$7,083,333
+164	
+ 	
+Ha-seong Kim
+ SD
+SS	25	$7,000,000
+ 	
+Shogo Akiyama
+ CIN
+CF	33	$7,000,000
+ 	
+Mike Minor
+ KC
+SP	33	$7,000,000
+ 	
+Edwin Diaz
+ NYM
+RP/CL	27	$7,000,000
+ 	
+Kyle Schwarber
+ BOS
+LF	28	$7,000,000
+ 	
+Chris Martin
+ ATL
+RP	35	$7,000,000
+170	
+ 	
+Mark Canha
+ OAK
+LF	32	$6,925,000
+171	
+ 	
+Jackson Jobe
+ DET
+P	18	$6,900,000
+172	
+ 	
+Yoan Moncada
+ CHW
+3B	26	$6,800,000
+173	
+ 	
+Jordan Lawlar
+ ARI
+SS	18	$6,713,300
+174	
+ 	
+Josh Hader
+ MIL
+RP/CL	27	$6,675,000
+175	
+ 	
+Marcelo Mayer
+ BOS
+SS	18	$6,664,000
+176	
+ 	
+Willson Contreras
+ CHC
+C	29	$6,650,000
+177	
+ 	
+Andrew Benintendi
+ KC
+LF	26	$6,600,000
+178	
+ 	
+Max Kepler
+ MIN
+RF	28	$6,500,000
+ 	
+Henry Davis
+ PIT
+C	21	$6,500,000
+ 	
+Matt Boyd
+ DET
+SP	30	$6,500,000
+ 	
+Jackie Bradley Jr.
+ MIL
+CF	31	$6,500,000
+ 	
+Chris Archer
+ TB
+SP	32	$6,500,000
+183	
+ 	
+Matt Chapman
+ OAK
+3B	28	$6,490,000
+184	
+ 	
+Josh Bell
+ WSH
+1B	28	$6,350,000
+ 	
+Gary Sanchez
+ NYY
+C	28	$6,350,000
+186	
+ 	
+Christian Vazquez
+ BOS
+C	30	$6,250,000
+187	
+ 	
+Joey Gallo
+ NYY
+RF	27	$6,200,000
+188	
+ 	
+Anthony DeSclafani
+ SF
+SP	31	$6,125,000
+189	
+ 	
+Daniel Hudson
+ SD
+RP	34	$6,000,000
+ 	
+Taylor Rogers
+ MIN
+RP/CL	30	$6,000,000
+ 	
+Ketel Marte
+ ARI
+CF	27	$6,000,000
+ 	
+Dellin Betances
+ NYM
+RP	33	$6,000,000
+ 	
+Archie Bradley
+ PHI
+RP	28	$6,000,000
+ 	
+Yan Gomes
+ OAK
+C	33	$6,000,000
+ 	
+Enrique Hernandez
+ BOS
+2B	29	$6,000,000
+ 	
+Dansby Swanson
+ ATL
+SS	27	$6,000,000
+ 	
+Jon Gray
+ COL
+SP	29	$6,000,000
+198	
+ 	
+Sean Manaea
+ OAK
+SP	29	$5,950,000
+199	
+ 	
+Kenta Maeda
+ MIN
+SP	33	$5,625,000
+200	
+ 	
+Jose Berrios
+ TOR
+SP	27	$5,600,000
+201	
+ 	
+Robbie Grossman
+ DET
+LF	31	$5,500,000
+ 	
+Kirby Yates
+ TOR
+RP	34	$5,500,000
+ 	
+Roberto Perez
+ CLE
+C	32	$5,500,000
+204	
+ 	
+Corey Knebel
+ LAD
+RP	29	$5,250,000
+ 	
+Marco Gonzales
+ SEA
+SP	29	$5,250,000
+206	
+ 	
+Steven Matz
+ TOR
+SP	30	$5,200,000
+207	
+ 	
+Byron Buxton
+ MIN
+CF	27	$5,125,000
+208	
+ 	
+Kyle Freeland
+ COL
+SP	28	$5,025,000
+209	
+ 	
+Hector Neris
+ PHI
+RP	32	$5,020,000
+210	
+ 	
+Alex Colome
+ MIN
+RP	32	$5,000,000
+ 	
+Brady House
+ WSH
+SS	18	$5,000,000
+ 	
+Miguel Rojas
+ MIA
+SS	32	$5,000,000
+ 	
+Cesar Hernandez
+ CHW
+2B	31	$5,000,000
+ 	
+Alex Wood
+ SF
+SP	30	$5,000,000
+ 	
+Matt Olson
+ OAK
+1B	27	$5,000,000
+ 	
+Ronald Acuna Jr.
+ ATL
+RF	23	$5,000,000
+ 	
+Benny Montgomery
+ COL
+OF	18	$5,000,000
+218	
+ 	
+Colton Cowser
+ BAL
+OF	21	$4,900,000
+ 	
+Chris Bassitt
+ OAK
+SP	32	$4,900,000
+220	
+ 	
+Rhys Hoskins
+ PHI
+1B	28	$4,800,000
+221	
+ 	
+Trey Mancini
+ BAL
+DH	29	$4,750,000
+ 	
+Pedro Baez
+ HOU
+RP	33	$4,750,000
+223	
+ 	
+Brandon Nimmo
+ NYM
+CF	28	$4,700,000
+ 	
+Luke Voit
+ NYY
+1B	30	$4,700,000
+225	
+ 	
+Giovanny Urshela
+ NYY
+3B	29	$4,650,000
+226	
+ 	
+Matt McLain
+ CIN
+SS	21	$4,625,000
+227	
+ 	
+Rafael Devers
+ BOS
+3B	24	$4,575,000
+228	
+ 	
+Khalil Watson
+ MIA
+SS	18	$4,540,790
+229	
+ 	
+Craig Stammen
+ SD
+RP	37	$4,500,000
+ 	
+Jesus Aguilar
+ MIA
+1B	31	$4,500,000
+ 	
+Jonathan Schoop
+ DET
+2B	29	$4,500,000
+ 	
+Jose Leclerc
+ TEX
+RP	27	$4,500,000
+ 	
+Matt Barnes
+ BOS
+RP	31	$4,500,000
+ 	
+Martin Perez
+ BOS
+RP	30	$4,500,000
+ 	
+Joc Pederson
+ ATL
+LF	29	$4,500,000
+236	
+ 	
+Joe Musgrove
+ SD
+SP	28	$4,450,000
+ 	
+Zach Eflin
+ PHI
+SP	27	$4,450,000
+238	
+ 	
+Michael Lorenzen
+ CIN
+SP	29	$4,437,500
+239	
+ 	
+Harry Ford
+ SEA
+C	18	$4,366,400
+240	
+ 	
+Jorge Polanco
+ MIN
+SS	27	$4,333,334
+241	
+ 	
+Jurickson Profar
+ SD
+LF	28	$4,333,333
+ 	
+Eloy Jimenez
+ CHW
+DH	24	$4,333,333
+243	
+ 	
+Teoscar Hernandez
+ TOR
+DH	28	$4,325,000
+244	
+ 	
+Adam Frazier
+ SD
+2B	29	$4,300,000
+245	
+ 	
+Merrill Kelly
+ ARI
+SP	32	$4,250,000
+246	
+ 	
+Luis Castillo
+ CIN
+SP	28	$4,200,000
+ 	
+Dinelson Lamet
+ SD
+SP	28	$4,200,000
+248	
+ 	
+Tucker Barnhart
+ CIN
+C	30	$4,187,500
+249	
+ 	
+Paul DeJong
+ STL
+SS	27	$4,166,666
+250	
+ 	
+Lucas Giolito
+ CHW
+SP	26	$4,150,000
+251	
+ 	
+Ian Happ
+ CHC
+CF	26	$4,100,000
+252	
+ 	
+Mychal Givens
+ CIN
+RP	31	$4,050,000
+253	
+ 	
+Kwang-hyun Kim
+ STL
+SP	32	$4,000,000
+ 	
+Mark Melancon
+ SD
+RP/CL	36	$4,000,000
+ 	
+Joe Smith
+ SEA
+RP	37	$4,000,000
+ 	
+Sal Frelick
+ MIL
+SS	21	$4,000,000
+ 	
+Jake Diekman
+ OAK
+RP	34	$4,000,000
+ 	
+Pedro Leon
+ HOU
+OF	23	$4,000,000
+ 	
+Tyler Glasnow
+ TB
+SP	27	$4,000,000
+ 	
+Gleyber Torres
+ NYY
+SS	24	$4,000,000
+ 	
+Scott Oberg
+ COL
+RP	31	$4,000,000
+262	
+ 	
+Lourdes Gurriel Jr.
+ TOR
+LF	27	$3,928,571
+263	
+ 	
+Jack Flaherty
+ STL
+SP	25	$3,900,000
+ 	
+Armando Cruz
+ WSH
+SS	17	$3,900,000
+ 	
+Andrew Painter
+ PHI
+P	18	$3,900,000
+266	
+ 	
+Sam Bachman
+ LAA
+P	21	$3,847,500
+267	
+ 	
+Brian Anderson
+ MIA
+3B	28	$3,800,000
+268	
+ 	
+Walker Buehler
+ LAD
+SP	26	$3,750,000
+ 	
+Greg Holland
+ KC
+RP	35	$3,750,000
+270	
+ 	
+Hunter Renfroe
+ BOS
+RF	29	$3,700,000
+271	
+ 	
+Will Bednar
+ SF
+P	21	$3,647,500
+272	
+ 	
+Julio Urias
+ LAD
+SP	24	$3,600,000
+ 	
+Kevin Pillar
+ NYM
+CF	32	$3,600,000
+274	
+ 	
+Jonathan Villar
+ NYM
+OF	30	$3,550,000
+275	
+ 	
+Frank Mozzicato
+ KC
+P	18	$3,547,500
+276	
+ 	
+Mike Clevinger
+ SD
+SP	30	$3,500,000
+ 	
+Yiddi Cappe
+ MIA
+SS	18	$3,500,000
+ 	
+Joakim Soria
+ TOR
+RP/CL	37	$3,500,000
+ 	
+Brad Miller
+ PHI
+2B	31	$3,500,000
+ 	
+Leury Garcia
+ CHW
+OF	30	$3,500,000
+ 	
+Luis Robert
+ CHW
+CF	23	$3,500,000
+ 	
+Michael Fiers
+ OAK
+SP	36	$3,500,000
+ 	
+Jason Castro
+ HOU
+C	34	$3,500,000
+ 	
+Martin Maldonado
+ HOU
+C	34	$3,500,000
+ 	
+Max Fried
+ ATL
+SP	27	$3,500,000
+ 	
+Stephen Vogt
+ ATL
+C	36	$3,500,000
+287	
+ 	
+Daniel Norris
+ MIL
+RP	28	$3,475,000
+288	
+ 	
+Jose Urena
+ DET
+SP	29	$3,450,000
+289	
+ 	
+Manuel Margot
+ TB
+RF	26	$3,400,000
+290	
+ 	
+Brad Keller
+ KC
+SP	25	$3,350,000
+291	
+ 	
+Austin Hedges
+ CLE
+C	28	$3,280,000
+292	
+ 	
+Brandon Woodruff
+ MIL
+SP	28	$3,275,000
+293	
+ 	
+Aaron Loup
+ NYM
+RP	33	$3,250,000
+ 	
+Donovan Solano
+ SF
+2B	33	$3,250,000
+295	
+ 	
+Gunnar Hoglund
+ TOR
+P	21	$3,247,500
+296	
+ 	
+Jesse Winker
+ CIN
+LF	27	$3,150,000
+297	
+ 	
+Jordan Wicks
+ CHC
+P	21	$3,132,300
+298	
+ 	
+Michael Fulmer
+ DET
+RP	28	$3,100,000
+299	
+ 	
+Colson Montgomery
+ CHW
+SS	19	$3,027,000
+300	
+ 	
+Mitch Haniger
+ SEA
+RF	30	$3,010,000
+301	
+ 	
+Cristian Hernandez
+ CHC
+SS	17	$3,000,000
+ 	
+Bubba Chandler
+ PIT
+P	18	$3,000,000
+ 	
+Julio Teheran
+ DET
+SP	30	$3,000,000
+ 	
+Ross Stripling
+ TOR
+SP	31	$3,000,000
+ 	
+Shohei Ohtani
+ LAA
+SP	26	$3,000,000
+ 	
+Matt Moore
+ PHI
+RP	32	$3,000,000
+ 	
+Carlos Rodon
+ CHW
+SP	28	$3,000,000
+ 	
+Wilmer Flores
+ SF
+2B	29	$3,000,000
+ 	
+Yusmeiro Petit
+ OAK
+RP	36	$3,000,000
+ 	
+Aledmys Diaz
+ HOU
+SS	30	$3,000,000
+ 	
+Carlos Colmenarez
+ TB
+SS	17	$3,000,000
+ 	
+Michael Wacha
+ TB
+SP	30	$3,000,000
+ 	
+Trey Sweeney
+ NYY
+SS	21	$3,000,000
+ 	
+Ozzie Albies
+ ATL
+2B	24	$3,000,000
+ 	
+Antonio Senzatela
+ COL
+SP	26	$3,000,000
+316	
+ 	
+Ben Kudrna
+ KC
+P	18	$2,997,500
+317	
+ 	
+Cristian Santana
+ DET
+SS	17	$2,975,000
+318	
+ 	
+Seth Lugo
+ NYM
+RP	31	$2,925,000
+ 	
+Daniel Bard
+ COL
+RP	36	$2,925,000
+320	
+ 	
+Justin Wilson
+ CIN
+RP	33	$2,850,000
+ 	
+Jeimer Candelario
+ DET
+1B	27	$2,850,000
+ 	
+Trevor Williams
+ NYM
+SP	29	$2,850,000
+ 	
+Max Muncy
+ OAK
+SS	18	$2,850,000
+ 	
+Brett Gardner
+ NYY
+LF	37	$2,850,000
+325	
+ 	
+Colin Moran
+ PIT
+1B	28	$2,800,000
+ 	
+Michael Soroka
+ ATL
+SP	23	$2,800,000
+327	
+ 	
+Anthony Solometo
+ PIT
+P	18	$2,797,500
+328	
+ 	
+Michael McGreevy
+ STL
+P	20	$2,750,000
+ 	
+Izaac Pacheco
+ DET
+SS	18	$2,750,000
+ 	
+Andrew Chafin
+ OAK
+RP	31	$2,750,000
+331	
+ 	
+Ryan Cusick
+ ATL
+P	21	$2,700,000
+332	
+ 	
+Wilman Diaz
+ LAD
+SS	17	$2,697,500
+333	
+ 	
+James Wood
+ SD
+OF	18	$2,600,000
+334	
+ 	
+Dominic Smith
+ NYM
+LF	26	$2,550,000
+335	
+ 	
+Adalberto Mondesi
+ KC
+SS	25	$2,525,000
+336	
+ 	
+Chase Petty
+ MIN
+P	18	$2,500,000
+ 	
+Hunter Dozier
+ KC
+3B	29	$2,500,000
+ 	
+Joe Mack
+ MIA
+C	18	$2,500,000
+ 	
+Ty Madden
+ DET
+P	21	$2,500,000
+ 	
+Tyler Anderson
+ SEA
+SP	31	$2,500,000
+ 	
+Rich Hill
+ NYM
+SP	41	$2,500,000
+ 	
+Blake Parker
+ CLE
+RP	36	$2,500,000
+ 	
+Brett Anderson
+ MIL
+SP	33	$2,500,000
+ 	
+Omar Narvaez
+ MIL
+C	29	$2,500,000
+ 	
+Pedro Pineda
+ OAK
+OF	17	$2,500,000
+ 	
+Sergio Romo
+ OAK
+RP	38	$2,500,000
+ 	
+Brandon Lowe
+ TB
+2B	26	$2,500,000
+ 	
+Joely Rodriguez
+ NYY
+RP	29	$2,500,000
+349	
+ 	
+Bryan Shaw
+ CLE
+RP	33	$2,450,000
+ 	
+Ji-Man Choi
+ TB
+1B	30	$2,450,000
+351	
+ 	
+Amed Rosario
+ CLE
+SS	25	$2,400,000
+352	
+ 	
+Jay Allen II
+ CIN
+OF	18	$2,397,500
+353	
+ 	
+Ryan McMahon
+ COL
+2B	26	$2,375,000
+354	
+ 	
+Shalin Polanco
+ PIT
+OF	0	$2,350,000
+ 	
+Manuel Beltre
+ TOR
+SS	17	$2,350,000
+356	
+ 	
+Carson Williams
+ TB
+SS	18	$2,347,500
+357	
+ 	
+Ryan Yarbrough
+ TB
+SP	29	$2,300,000
+358	
+ 	
+Chad Pinder
+ OAK
+SS	29	$2,275,000
+359	
+ 	
+Joshua Baez
+ STL
+OF	18	$2,250,000
+ 	
+Gavin Williams
+ CLE
+P	21	$2,250,000
+ 	
+Rafael Montero
+ HOU
+RP	30	$2,250,000
+ 	
+Mitch Moreland
+ OAK
+1B	35	$2,250,000
+ 	
+Tommy Hunter
+ TB
+RP	34	$2,250,000
+ 	
+Joe Wendle
+ TB
+3B	31	$2,250,000
+ 	
+Jameson Taillon
+ NYY
+SP	29	$2,250,000
+366	
+ 	
+Tyler Black
+ MIL
+2B	20	$2,202,200
+367	
+ 	
+Danny De Andrade
+ MIN
+SS	17	$2,200,000
+ 	
+Tyler Duffey
+ MIN
+RP	30	$2,200,000
+ 	
+Tyler Mahle
+ CIN
+SP	26	$2,200,000
+370	
+ 	
+Maddux Bruns
+ LAD
+P	19	$2,197,500
+371	
+ 	
+Ian Kennedy
+ PHI
+RP	36	$2,150,000
+ 	
+Chad Green
+ NYY
+RP	30	$2,150,000
+373	
+ 	
+Cooper Kinney
+ TB
+2B	18	$2,145,600
+374	
+ 	
+Chad Kuhl
+ PIT
+RP	28	$2,130,000
+ 	
+Jordan Montgomery
+ NYY
+SP	28	$2,130,000
+376	
+ 	
+John Gant
+ MIN
+RP	28	$2,100,000
+ 	
+James Triantos
+ CHC
+3B	18	$2,100,000
+ 	
+Anthony Santander
+ BAL
+RF	26	$2,100,000
+ 	
+Niko Goodrum
+ DET
+2B	29	$2,100,000
+ 	
+J.D. Davis
+ NYM
+3B	28	$2,100,000
+ 	
+Reynaldo Lopez
+ CHW
+RP	27	$2,100,000
+ 	
+Alex Dickerson
+ SF
+LF	31	$2,100,000
+ 	
+Clint Frazier
+ NYY
+OF	26	$2,100,000
+384	
+ 	
+Matheu Nelson
+ CIN
+C	22	$2,093,300
+385	
+ 	
+Hansel Robles
+ BOS
+RP	30	$2,075,000
+386	
+ 	
+Matthew Strahm
+ SD
+RP	29	$2,050,000
+ 	
+Jorge Alfaro
+ MIA
+C	28	$2,050,000
+ 	
+Steven Brault
+ PIT
+SP	29	$2,050,000
+ 	
+J.P. Crawford
+ SEA
+SS	26	$2,050,000
+ 	
+Yoelqui Cespedes
+ CHW
+OF	23	$2,050,000
+391	
+ 	
+Harrison Bader
+ STL
+CF	27	$2,000,000
+ 	
+Jon Lester
+ STL
+SP	37	$2,000,000
+ 	
+Pierce Johnson
+ SD
+RP/CL	30	$2,000,000
+ 	
+Michael Taylor
+ KC
+CF	30	$2,000,000
+ 	
+Austin Romine
+ CHC
+C	32	$2,000,000
+ 	
+Nick Wittgren
+ CLE
+RP	30	$2,000,000
+ 	
+Denzer Guzman
+ LAA
+SS	17	$2,000,000
+ 	
+David Fletcher
+ LAA
+2B	27	$2,000,000
+ 	
+Mike Foltynewicz
+ TEX
+SP	29	$2,000,000
+ 	
+Isiah Kiner-Falefa
+ TEX
+SS	26	$2,000,000
+ 	
+Aaron Bummer
+ CHW
+RP	27	$2,000,000
+ 	
+Evan Marshall
+ CHW
+RP	31	$2,000,000
+ 	
+Curt Casali
+ SF
+C	32	$2,000,000
+ 	
+Tommy La Stella
+ SF
+2B	32	$2,000,000
+ 	
+Jake McGee
+ SF
+RP	34	$2,000,000
+ 	
+Brooks Raley
+ HOU
+RP	33	$2,000,000
+ 	
+Mike Zunino
+ TB
+C	30	$2,000,000
+ 	
+Orlando Arcia
+ ATL
+SS	26	$2,000,000
+ 	
+Adam Duvall
+ ATL
+RF	32	$2,000,000
+410	
+ 	
+Raimel Tapia
+ COL
+LF	27	$1,950,000
+ 	
+Luke Weaver
+ ARI
+SP	27	$1,950,000
+412	
+ 	
+Malvin Valdez
+ CIN
+OF	17	$1,900,000
+ 	
+Garrett Cooper
+ MIA
+RF	30	$1,900,000
+ 	
+Yimi Garcia
+ HOU
+RP	30	$1,900,000
+ 	
+Luke Jackson
+ ATL
+RP	29	$1,900,000
+416	
+ 	
+Mitch Garver
+ MIN
+C	30	$1,875,000
+417	
+ 	
+Ariel Almonte
+ CIN
+OF	17	$1,850,000
+418	
+ 	
+Pedro Severino
+ BAL
+C	27	$1,825,000
+ 	
+Jhonny Piron
+ TB
+OF	0	$1,825,000
+420	
+ 	
+Victor Acosta
+ SD
+SS	17	$1,800,000
+ 	
+Jackson Merrill
+ SD
+SS	18	$1,800,000
+ 	
+Yeison Morrobel
+ TEX
+OF	17	$1,800,000
+ 	
+Jackson Chourio
+ MIL
+SS	17	$1,800,000
+ 	
+Wes Kath
+ CHW
+3B	18	$1,800,000
+ 	
+Frankie Montas
+ OAK
+SP	28	$1,800,000
+ 	
+Collin McHugh
+ TB
+RP	34	$1,800,000
+427	
+ 	
+Darren O'Day
+ NYY
+RP	38	$1,750,000
+ 	
+Asdrubal Cabrera
+ CIN
+2B	35	$1,750,000
+ 	
+Daylen Lile
+ WSH
+OF	18	$1,750,000
+ 	
+David Phelps
+ TOR
+RP	34	$1,750,000
+ 	
+Tyler Clippard
+ ARI
+RP	36	$1,750,000
+ 	
+Brock Holt
+ TEX
+2B	33	$1,750,000
+ 	
+Ryan Tepera
+ CHW
+RP	33	$1,750,000
+ 	
+Kendall Graveman
+ HOU
+RP	30	$1,750,000
+ 	
+Daniel Santana
+ BOS
+OF	30	$1,750,000
+436	
+ 	
+Ky Bush
+ LAA
+P	21	$1,747,500
+437	
+ 	
+Fernando Tatis Jr.
+ SD
+SS	22	$1,714,285
+438	
+ 	
+Richard Rodriguez
+ ATL
+RP/CL	31	$1,700,000
+ 	
+Hans Montero
+ NYY
+SS	0	$1,700,000
+ 	
+Noah Miller
+ MIN
+SS	18	$1,700,000
+ 	
+Jake Junis
+ KC
+RP	28	$1,700,000
+ 	
+Connor Norby
+ BAL
+2B	21	$1,700,000
+ 	
+Chris Flexen
+ SEA
+SP	27	$1,700,000
+ 	
+Carson Kelly
+ ARI
+C	26	$1,700,000
+445	
+ 	
+Jaden Hill
+ COL
+P	21	$1,689,500
+446	
+ 	
+Miguel Castro
+ NYM
+RP	26	$1,687,500
+447	
+ 	
+Austin Barnes
+ LAD
+C	31	$1,650,000
+ 	
+Hanser Alberto
+ KC
+2B	28	$1,650,000
+ 	
+Edwin Arroyo
+ SEA
+SS	17	$1,650,000
+ 	
+Manuel Pina
+ MIL
+C	34	$1,650,000
+451	
+ 	
+Max Stassi
+ LAA
+C	30	$1,600,000
+ 	
+Hirokazu Sawamura
+ BOS
+RP	33	$1,600,000
+ 	
+Kevin Plawecki
+ BOS
+C	30	$1,600,000
+454	
+ 	
+Emilio Pagan
+ SD
+RP	30	$1,570,000
+455	
+ 	
+Brent Suter
+ MIL
+RP	31	$1,550,000
+456	
+ 	
+Ethan Wilson
+ PHI
+OF	21	$1,507,600
+457	
+ 	
+Ambioris Tavarez
+ ATL
+SS	0	$1,500,000
+ 	
+Ehire Adrianza
+ ATL
+SS	31	$1,500,000
+ 	
+Brock Selvidge
+ NYY
+P	18	$1,500,000
+ 	
+Amir Garrett
+ CIN
+RP	29	$1,500,000
+ 	
+Tyler Naquin
+ CIN
+RF	30	$1,500,000
+ 	
+Daniel Vazquez
+ KC
+SS	0	$1,500,000
+ 	
+Ervin Santana
+ KC
+RP	38	$1,500,000
+ 	
+Alex Avila
+ WSH
+C	34	$1,500,000
+ 	
+Joe Ross
+ WSH
+SP	28	$1,500,000
+ 	
+Lonnie White, Jr.
+ PIT
+OF	18	$1,500,000
+ 	
+Trevor Cahill
+ PIT
+SP	33	$1,500,000
+ 	
+Joe Jimenez
+ DET
+RP	26	$1,500,000
+ 	
+Wily Peralta
+ DET
+SP	32	$1,500,000
+ 	
+Ben Gamel
+ PIT
+CF	29	$1,500,000
+ 	
+Chasen Shreve
+ PIT
+RP	30	$1,500,000
+ 	
+Starlin Aguilar
+ SEA
+SS	17	$1,500,000
+ 	
+Michael Morales
+ SEA
+P	18	$1,500,000
+ 	
+Sean Doolittle
+ SEA
+RP	34	$1,500,000
+ 	
+Jarrod Dyson
+ TOR
+CF	36	$1,500,000
+ 	
+Kurt Suzuki
+ LAA
+C	37	$1,500,000
+ 	
+Charlie Culberson
+ TEX
+2B	32	$1,500,000
+ 	
+Freddy Galvis
+ PHI
+SS	31	$1,500,000
+ 	
+Norge Vera
+ CHW
+P	21	$1,500,000
+ 	
+Eric Silva
+ SF
+P	18	$1,500,000
+ 	
+Tyler Whitaker
+ HOU
+OF	18	$1,500,000
+ 	
+Miguel Bleis
+ BOS
+OF	0	$1,500,000
+ 	
+Travis Shaw
+ BOS
+1B	31	$1,500,000
+ 	
+Jed Lowrie
+ OAK
+2B	37	$1,500,000
+485	
+ 	
+Carlos Estevez
+ COL
+RP/CL	28	$1,450,000
+486	
+ 	
+Richard Bleier
+ MIA
+RP	34	$1,425,000
+487	
+ 	
+Cody Morissette
+ MIA
+SS	21	$1,403,200
+488	
+ 	
+Dan Vogelbach
+ MIL
+1B	28	$1,400,000
+489	
+ 	
+Caleb Smith
+ ARI
+SP	29	$1,386,240
+490	
+ 	
+John Rhodes
+ BAL
+OF	20	$1,375,000
+ 	
+Adam Engel
+ CHW
+LF	29	$1,375,000
+492	
+ 	
+Jesse Hahn
+ KC
+RP	31	$1,350,000
+493	
+ 	
+Freddy Peralta
+ MIL
+SP	25	$1,334,960
+494	
+ 	
+Elias Diaz
+ COL
+C	30	$1,300,000
+ 	
+A.J. Minter
+ ATL
+RP	27	$1,300,000
+ 	
+Andrew Abbott
+ CIN
+P	22	$1,300,000
+ 	
+Victor Caratini
+ SD
+C	27	$1,300,000
+ 	
+Samuel Basallo
+ BAL
+C	0	$1,300,000
+ 	
+Jacob Stallings
+ PIT
+C	31	$1,300,000
+ 	
+Gabriel Gonzalez
+ SEA
+OF	17	$1,300,000
+ 	
+Evan White
+ SEA
+1B	25	$1,300,000
+ 	
+Robert Gsellman
+ NYM
+RP	27	$1,300,000
+ 	
+Yemal Flores
+ PHI
+OF	0	$1,300,000
+504	
+ 	
+Ken Giles
+ SEA
+RP	30	$1,275,000
+ 	
+Darin Ruf
+ SF
+1B	34	$1,275,000
+506	
+ 	
+Peter Heubeck
+ LAD
+P	18	$1,272,000
+507	
+ 	
+Jimmy Nelson
+ LAD
+RP	32	$1,250,000
+ 	
+Wade Davis
+ KC
+RP	35	$1,250,000
+ 	
+Sandy Leon
+ MIA
+C	32	$1,250,000
+ 	
+Ryan Bliss
+ ARI
+SS	21	$1,250,000
+ 	
+Heath Hembree
+ NYM
+RP	32	$1,250,000
+ 	
+Juan Lagares
+ LAA
+CF	32	$1,250,000
+ 	
+Billy Hamilton
+ CHW
+CF	30	$1,250,000
+ 	
+Ryan Brasier
+ BOS
+RP	33	$1,250,000
+ 	
+Josh Harrison
+ OAK
+2B	33	$1,250,000
+516	
+ 	
+Mason Albright
+ LAA
+P	18	$1,247,500
+517	
+ 	
+Samuel Zavala
+ SD
+OF	16	$1,200,000
+ 	
+Keone Kela
+ SD
+RP	28	$1,200,000
+ 	
+Maikol Hernandez
+ BAL
+SS	0	$1,200,000
+ 	
+Fran Alduey
+ CLE
+SS	0	$1,200,000
+ 	
+Doug Nikhazy
+ CLE
+P	21	$1,200,000
+ 	
+Mike Mayers
+ LAA
+RP	29	$1,200,000
+ 	
+Matt Wisler
+ TB
+RP	28	$1,200,000
+524	
+ 	
+Matt Mikulski
+ SF
+P	22	$1,197,500
+525	
+ 	
+Abel Bastidas
+ DET
+SS	17	$1,175,000
+ 	
+Angel Genao
+ CLE
+SS	0	$1,175,000
+ 	
+Yonny Chirinos
+ TB
+SP	27	$1,175,000
+528	
+ 	
+Zack Gelof
+ OAK
+3B	21	$1,157,400
+529	
+ 	
+Austin Slater
+ SF
+LF	28	$1,150,000
+ 	
+Chaz Roe
+ TB
+RP	34	$1,150,000
+531	
+ 	
+Steven Hajjar
+ MIN
+P	20	$1,129,700
+532	
+ 	
+Dylan Smith
+ DET
+P	21	$1,115,000
+533	
+ 	
+Fredy LaFlor
+ MIN
+SS	0	$1,100,000
+ 	
+Chris Stratton
+ PIT
+RP/CL	30	$1,100,000
+ 	
+Tommy Mace
+ CLE
+P	22	$1,100,000
+ 	
+Andrew Knapp
+ PHI
+C	29	$1,100,000
+ 	
+Ryne Stanek
+ HOU
+RP	29	$1,100,000
+538	
+ 	
+Carter Jensen
+ KC
+C	17	$1,097,500
+ 	
+Ryan Spikes
+ TB
+2B	18	$1,097,500
+540	
+ 	
+Brendan Beck
+ NYY
+P	22	$1,050,000
+ 	
+Luis Cessa
+ CIN
+RP	29	$1,050,000
+ 	
+Jose Alvarez
+ SF
+RP	32	$1,050,000
+ 	
+Tony Kemp
+ OAK
+2B	29	$1,050,000
+544	
+ 	
+Tommy Kahnle
+ LAD
+RP	31	$1,025,000
+ 	
+Danyer Cuevas
+ TEX
+SS	0	$1,025,000
+546	
+ 	
+David Bote
+ CHC
+2B	28	$1,010,000
+547	
+ 	
+Peyton Wilson
+ KC
+2B	21	$1,000,800
+548	
+ 	
+Guillermo Heredia
+ ATL
+CF	30	$1,000,000
+ 	
+Josh Tomlin
+ ATL
+RP	36	$1,000,000
+ 	
+Jhoulys Chacin
+ COL
+RP	33	$1,000,000
+ 	
+C.J. Cron
+ COL
+1B	31	$1,000,000
+ 	
+Chris Owings
+ COL
+2B	29	$1,000,000
+ 	
+Scott Alexander
+ LAD
+RP	31	$1,000,000
+ 	
+Cole Hamels
+ LAD
+SP	37	$1,000,000
+ 	
+Alec Willis
+ STL
+P	18	$1,000,000
+ 	
+T.J. McFarland
+ STL
+RP	32	$1,000,000
+ 	
+Daniel Montesino
+ SD
+OF	17	$1,000,000
+ 	
+Jake Marisnick
+ SD
+CF	30	$1,000,000
+ 	
+Jordy Mercer
+ WSH
+SS	34	$1,000,000
+ 	
+Gerardo Parra
+ WSH
+RF	34	$1,000,000
+ 	
+Ryan Zimmerman
+ WSH
+1B	36	$1,000,000
+ 	
+Robinson Chirinos
+ CHC
+C	37	$1,000,000
+ 	
+Matt Duffy
+ CHC
+3B	30	$1,000,000
+ 	
+Jose Lobaton
+ CHC
+C	36	$1,000,000
+ 	
+Creed Willems
+ BAL
+C	18	$1,000,000
+ 	
+Matt Harvey
+ BAL
+SP	32	$1,000,000
+ 	
+Anthony Bass
+ MIA
+RP	33	$1,000,000
+ 	
+Wilmer Difo
+ PIT
+SS	29	$1,000,000
+ 	
+Adrian Del Castillo
+ ARI
+C	21	$1,000,000
+ 	
+Chris Devenski
+ ARI
+RP	30	$1,000,000
+ 	
+Robert Lopez
+ CLE
+C	0	$1,000,000
+ 	
+Wilson Ramos
+ CLE
+C	33	$1,000,000
+ 	
+Jose Martinez
+ NYM
+1B	32	$1,000,000
+ 	
+Steve Cishek
+ LAA
+RP	35	$1,000,000
+ 	
+Cameron Cauley
+ TEX
+SS	18	$1,000,000
+ 	
+Rickardo Perez
+ PHI
+C	17	$1,000,000
+ 	
+Gregory Barrios
+ MIL
+SS	0	$1,000,000
+ 	
+Daniel Guilarte
+ MIL
+SS	0	$1,000,000
+ 	
+Russell Smith
+ MIL
+P	22	$1,000,000
+ 	
+Jose Alvarado
+ PHI
+RP/CL	26	$1,000,000
+ 	
+Brian Goodwin
+ CHW
+RF	30	$1,000,000
+ 	
+John Axford
+ MIL
+RP	38	$1,000,000
+ 	
+Brad Boxberger
+ MIL
+RP	33	$1,000,000
+ 	
+Hunter Strickland
+ MIL
+RP	32	$1,000,000
+ 	
+Diego Velasquez
+ SF
+SS	0	$1,000,000
+ 	
+Tony Watson
+ SF
+RP	36	$1,000,000
+ 	
+Nathan Hickey
+ BOS
+C	21	$1,000,000
+588	
+ 	
+Spencer Schwellenbach
+ ATL
+P	21	$997,500
+ 	
+AJ Smith-Shawver
+ ATL
+P	18	$997,500
+ 	
+Shane Panzini
+ KC
+P	19	$997,500
+591	
+ 	
+Dylan Floro
+ MIA
+RP/CL	30	$975,000
+ 	
+Phil Maton
+ HOU
+RP	28	$975,000
+593	
+ 	
+Jose Cisnero
+ DET
+RP	32	$970,000
+594	
+ 	
+Joe Rock
+ COL
+P	20	$953,100
+595	
+ 	
+Luis Avilan
+ WSH
+RP	31	$950,000
+ 	
+Jarlin Garcia
+ SF
+RP	28	$950,000
+597	
+ 	
+Wandy Peralta
+ NYY
+RP	29	$925,000
+ 	
+Derek Holland
+ DET
+RP	34	$925,000
+ 	
+Adam Cimber
+ TOR
+RP	30	$925,000
+600	
+ 	
+Lou Trivino
+ OAK
+RP/CL	29	$912,500
+601	
+ 	
+Calvin Ziegler
+ NYM
+P	18	$910,000
+602	
+ 	
+Grant Dayton
+ ATL
+RP	33	$900,000
+ 	
+Alexander Reyes
+ STL
+RP	26	$900,000
+ 	
+Drew Gray
+ CHC
+P	18	$900,000
+ 	
+Adam Morgan
+ CHC
+RP	31	$900,000
+ 	
+Sean Burke
+ CHW
+P	21	$900,000
+607	
+ 	
+Robert Gasser
+ SD
+P	22	$884,200
+608	
+ 	
+Ryan Holgate
+ STL
+OF	21	$875,000
+ 	
+Pat Valaika
+ BAL
+SS	28	$875,000
+ 	
+Tom Murphy
+ SEA
+C	30	$875,000
+611	
+ 	
+Jordan Hicks
+ STL
+RP	24	$862,500
+612	
+ 	
+Dan Altavilla
+ SD
+RP	28	$850,000
+ 	
+Rex Brothers
+ CHC
+RP	33	$850,000
+ 	
+Ronald Hernandez
+ MIA
+C	0	$850,000
+ 	
+Jake Fox
+ CLE
+SS	18	$850,000
+ 	
+Mitch Bratt
+ TEX
+P	17	$850,000
+ 	
+Tanner McDougal
+ CHW
+P	18	$850,000
+ 	
+Enderso Lira
+ BOS
+C	0	$850,000
+619	
+ 	
+Irv Carter
+ TOR
+P	18	$847,500
+620	
+ 	
+Aaron Zavala
+ TEX
+OF	21	$830,000
+621	
+ 	
+Tyler McDonough
+ BOS
+2B	22	$828,600
+622	
+ 	
+Jesus Galiz
+ LAD
+C	17	$812,500
+623	
+ 	
+Robert Stephenson
+ COL
+RP	28	$805,000
+624	
+ 	
+Reed Trimble
+ BAL
+OF	21	$800,000
+ 	
+Jordan McCants
+ MIA
+SS	19	$800,000
+ 	
+Drew Steckenrider
+ SEA
+RP/CL	30	$800,000
+ 	
+Ronald Torreyes
+ PHI
+2B	28	$800,000
+628	
+ 	
+McCade Brown
+ COL
+P	21	$780,400
+629	
+ 	
+Oliver Drake
+ TB
+RP	34	$775,000
+630	
+ 	
+Micah Ottenbreit
+ PHI
+P	18	$772,500
+631	
+ 	
+Luis Mario Pino
+ STL
+OF	17	$767,000
+632	
+ 	
+Landon Marceaux
+ LAA
+P	21	$765,300
+633	
+ 	
+Dominic Hamel
+ NYM
+P	22	$755,300
+634	
+ 	
+Brayan Rijo
+ CIN
+OF	0	$750,000
+ 	
+Jonathan Holder
+ CHC
+RP	28	$750,000
+ 	
+Jacob Barnes
+ TOR
+RP	31	$750,000
+ 	
+Junior Guerra
+ LAA
+RP	36	$750,000
+ 	
+Andrew Kittredge
+ TB
+RP/CL	31	$750,000
+639	
+ 	
+Luke Murphy
+ LAA
+P	21	$747,500
+ 	
+Jordan Viars
+ PHI
+OF	17	$747,500
+ 	
+Kyle Manzardo
+ TB
+1B	20	$747,500
+642	
+ 	
+Hendry Mendez
+ MIL
+OF	0	$735,000
+643	
+ 	
+Seranthony Dominguez
+ PHI
+RP	26	$727,500
+644	
+ 	
+Mason Black
+ SF
+P	21	$708,200
+645	
+ 	
+Randy Dobnak
+ MIN
+RP	26	$700,000
+ 	
+Caleb Thielbar
+ MIN
+RP	34	$700,000
+ 	
+Kohl Stewart
+ CHC
+SP	26	$700,000
+ 	
+Luis Bolivar
+ SEA
+OF	17	$700,000
+ 	
+Ian Moller
+ TEX
+C	18	$700,000
+ 	
+Alex Binelas
+ MIL
+3B	21	$700,000
+ 	
+Denzel Clarke
+ OAK
+OF	21	$700,000
+652	
+ 	
+Devin Williams
+ MIL
+RP	26	$681,100
+653	
+ 	
+Luis Reyes
+ CIN
+3B	0	$680,000
+ 	
+Leonardo Bernal
+ STL
+C	17	$680,000
+ 	
+Matt Bush
+ TEX
+RP	35	$680,000
+656	
+ 	
+Shane Bieber
+ CLE
+SP	26	$679,700
+657	
+ 	
+Pete Alonso
+ NYM
+1B	26	$676,775
+658	
+ 	
+Clay Holmes
+ NYY
+RP	28	$650,000
+ 	
+Scott Barlow
+ KC
+RP/CL	28	$650,000
+660	
+ 	
+Alex Verdugo
+ BOS
+CF	25	$649,500
+661	
+ 	
+Ricky Tiedemann
+ TOR
+P	18	$644,800
+662	
+ 	
+Jeff McNeil
+ NYM
+2B	29	$642,251
+663	
+ 	
+Kyle Farmer
+ CIN
+SS	30	$640,000
+664	
+ 	
+Miguel Andujar
+ NYY
+3B	26	$639,000
+665	
+ 	
+Framber Valdez
+ HOU
+SP	27	$637,300
+666	
+ 	
+Sandy Alcantara
+ MIA
+SP	25	$630,000
+667	
+ 	
+Kyle Lewis
+ SEA
+CF	25	$625,000
+668	
+ 	
+Kyle Tucker
+ HOU
+RF	24	$624,300
+669	
+ 	
+Jose Torres
+ CIN
+SS	21	$622,500
+670	
+ 	
+Cristian Javier
+ HOU
+SP	24	$620,400
+671	
+ 	
+Domingo German
+ NYY
+SP	28	$619,675
+672	
+ 	
+Christian Walker
+ ARI
+1B	30	$619,300
+673	
+ 	
+John Curtiss
+ MIL
+RP	28	$615,000
+674	
+ 	
+Nick Pivetta
+ BOS
+SP	28	$613,500
+675	
+ 	
+Luis Arraez
+ MIN
+2B	24	$611,000
+676	
+ 	
+Chris Paddack
+ SD
+SP	25	$610,900
+677	
+ 	
+Yordan Alvarez
+ HOU
+DH	24	$609,000
+678	
+ 	
+Corbin Burnes
+ MIL
+SP	26	$608,000
+679	
+ 	
+Jon Berti
+ MIA
+2B	31	$607,500
+ 	
+Zac Gallen
+ ARI
+SP	25	$607,500
+681	
+ 	
+Joey Lucchesi
+ NYM
+SP	28	$607,100
+682	
+ 	
+Ronald Guzman
+ TEX
+1B	26	$606,000
+683	
+ 	
+Vladimir Guerrero Jr.
+ TOR
+1B	22	$605,400
+684	
+ 	
+Jose Urquidy
+ HOU
+SP	26	$604,200
+685	
+ 	
+Cameron Gallagher
+ KC
+C	28	$604,000
+ 	
+Cavan Biggio
+ TOR
+2B	26	$604,000
+687	
+ 	
+Tyler Wade
+ NYY
+2B	26	$603,000
+688	
+ 	
+Franmil Reyes
+ CLE
+DH	25	$602,400
+689	
+ 	
+Danny Jansen
+ TOR
+C	26	$601,800
+690	
+ 	
+Bryan Reynolds
+ PIT
+LF	26	$601,000
+691	
+ 	
+Tyler Matzek
+ ATL
+RP	30	$600,500
+ 	
+Caleb Ferguson
+ LAD
+RP	24	$600,500
+ 	
+Franklin Barreto
+ LAA
+SS	25	$600,500
+694	
+ 	
+Hunter Goodman
+ COL
+C	21	$600,000
+ 	
+Lucas Luetge
+ NYY
+RP	34	$600,000
+ 	
+Austin Love
+ STL
+P	22	$600,000
+ 	
+Branden Boissiere
+ WSH
+OF	21	$600,000
+ 	
+Alec Mills
+ CHC
+SP	29	$600,000
+ 	
+Kevin Guerrero
+ MIA
+OF	0	$600,000
+ 	
+Rayner Castillo
+ DET
+SS	0	$600,000
+ 	
+Owen Kellington
+ PIT
+P	18	$600,000
+ 	
+Jake Bauers
+ SEA
+1B	25	$600,000
+ 	
+Tim Mayza
+ TOR
+RP	29	$600,000
+ 	
+Yeferson Tineo
+ TEX
+SS	0	$600,000
+ 	
+Dylan Cease
+ CHW
+SP	25	$600,000
+ 	
+Scott Kazmir
+ SF
+SP	37	$600,000
+ 	
+Mike Yastrzemski
+ SF
+RF	30	$600,000
+708	
+ 	
+Blake Taylor
+ HOU
+RP	25	$599,100
+ 	
+Mason Miller
+ OAK
+P	22	$599,100
+710	
+ 	
+Lucas Sims
+ CIN
+RP/CL	27	$598,500
+711	
+ 	
+Rowdy Tellez
+ MIL
+1B	26	$598,100
+712	
+ 	
+Kevin Newman
+ PIT
+SS	27	$598,000
+713	
+ 	
+Jake Cave
+ MIN
+LF	28	$597,500
+ 	
+Nicholas Lopez
+ KC
+2B	26	$597,500
+ 	
+Ramon Peralta
+ SF
+SS	0	$597,500
+716	
+ 	
+Tommy Edman
+ STL
+2B	26	$596,000
+ 	
+Tim Hill
+ SD
+RP	31	$596,000
+718	
+ 	
+Jonathan Loaisiga
+ NYY
+RP	26	$595,800
+719	
+ 	
+Dakota Hudson
+ STL
+SP	26	$595,700
+720	
+ 	
+Pablo Lopez
+ MIA
+SP	25	$595,000
+721	
+ 	
+Tyler O'Neill
+ STL
+LF	26	$594,700
+722	
+ 	
+Giovanny Gallegos
+ STL
+RP/CL	29	$594,500
+723	
+ 	
+Kyle Higashioka
+ NYY
+C	31	$594,000
+724	
+ 	
+Brady Singer
+ KC
+SP	24	$593,700
+725	
+ 	
+John Means
+ BAL
+SP	28	$593,500
+726	
+ 	
+Rowan Wick
+ CHC
+RP/CL	28	$593,000
+ 	
+Willie Calhoun
+ TEX
+DH	26	$593,000
+728	
+ 	
+Jason Adam
+ CHC
+RP	29	$592,500
+729	
+ 	
+Casey Sadler
+ SEA
+RP	30	$591,800
+730	
+ 	
+Michael Perez
+ PIT
+C	28	$591,500
+731	
+ 	
+Austin Meadows
+ TB
+DH	26	$591,400
+732	
+ 	
+Austin Riley
+ ATL
+3B	24	$590,500
+ 	
+Matt Beaty
+ LAD
+3B	28	$590,500
+ 	
+Brusdar Graterol
+ LAD
+RP	22	$590,500
+ 	
+Dustin May
+ LAD
+SP	23	$590,500
+ 	
+Edwin Rios
+ LAD
+3B	27	$590,500
+ 	
+Will Smith
+ LAD
+C	26	$590,500
+ 	
+JT Brubaker
+ PIT
+SP	27	$590,500
+ 	
+Jaime Barria
+ LAA
+SP	24	$590,500
+ 	
+Jared Walsh
+ LAA
+1B	27	$590,500
+ 	
+Taylor Ward
+ LAA
+3B	27	$590,500
+742	
+ 	
+Dylan Moore
+ SEA
+2B	28	$590,400
+ 	
+Myles Straw
+ CLE
+CF	26	$590,400
+744	
+ 	
+Zach Plesac
+ CLE
+SP	26	$590,200
+745	
+ 	
+Willy Adames
+ MIL
+SS	25	$590,000
+746	
+ 	
+Ke'Bryan Hayes
+ PIT
+3B	24	$589,500
+ 	
+Brett Martin
+ TEX
+RP	26	$589,500
+748	
+ 	
+Trent Grisham
+ SD
+CF	24	$589,200
+749	
+ 	
+Tim Locastro
+ NYY
+OF	28	$589,100
+750	
+ 	
+Tanner Rainey
+ WSH
+RP	28	$589,000
+751	
+ 	
+Yandy Diaz
+ TB
+3B	29	$588,900
+752	
+ 	
+Jalen Beeks
+ TB
+RP	27	$588,800
+753	
+ 	
+Josh Staumont
+ KC
+RP	27	$588,700
+ 	
+Kyle Zimmer
+ KC
+RP	29	$588,700
+755	
+ 	
+Austin Davis
+ BOS
+RP	28	$588,000
+756	
+ 	
+Nick Anderson
+ TB
+RP	30	$587,800
+ 	
+Bo Bichette
+ TOR
+SS	23	$587,800
+758	
+ 	
+Austin Voth
+ WSH
+RP	29	$587,700
+759	
+ 	
+Lewis Brinson
+ MIA
+CF	27	$587,500
+ 	
+Ty France
+ SEA
+DH	26	$587,500
+ 	
+Jonathan Hernandez
+ TEX
+RP	24	$587,500
+762	
+ 	
+Aaron Civale
+ CLE
+SP	26	$587,400
+763	
+ 	
+Victor Reyes
+ DET
+RF	26	$587,100
+764	
+ 	
+Harold Ramirez
+ CLE
+RF	26	$587,000
+765	
+ 	
+Spencer Turnbull
+ DET
+SP	28	$586,900
+ 	
+Nick Margevicius
+ SEA
+SP	25	$586,900
+767	
+ 	
+Jorge Lopez
+ BAL
+SP	28	$586,750
+768	
+ 	
+Pavin Smith
+ ARI
+RF	25	$586,600
+769	
+ 	
+Michael King
+ NYY
+RP	26	$586,500
+770	
+ 	
+Francisco Mejia
+ TB
+C	25	$586,300
+771	
+ 	
+Cal Quantrill
+ CLE
+SP	26	$586,200
+772	
+ 	
+Nick Solak
+ TEX
+3B	26	$586,000
+773	
+ 	
+Kevin Ginkel
+ ARI
+RP	27	$585,900
+774	
+ 	
+David Peterson
+ NYM
+SP	25	$585,750
+775	
+ 	
+Jeff Hoffman
+ CIN
+SP	28	$585,500
+776	
+ 	
+Jeffrey Springs
+ TB
+RP	28	$585,000
+ 	
+Nabil Crismatt
+ SD
+RP	26	$585,000
+ 	
+Codi Heuer
+ CHC
+RP	24	$585,000
+ 	
+James Karinchak
+ CLE
+RP	25	$585,000
+ 	
+Matt Foster
+ CHW
+RP	26	$585,000
+781	
+ 	
+Jake Cronenworth
+ SD
+2B	27	$584,900
+ 	
+Justin Dunn
+ SEA
+SP	25	$584,900
+783	
+ 	
+Thomas Hatch
+ TOR
+SP	26	$584,800
+784	
+ 	
+Duane Underwood
+ PIT
+RP	26	$584,500
+785	
+ 	
+Brett Phillips
+ TB
+RF	27	$584,400
+786	
+ 	
+Kolby Allard
+ TEX
+SP	23	$584,250
+787	
+ 	
+Adrian Houser
+ MIL
+SP	28	$584,100
+788	
+ 	
+Nick Madrigal
+ CHC
+2B	24	$584,000
+ 	
+Jordan Romano
+ TOR
+RP/CL	28	$584,000
+ 	
+Jose Trevino
+ TEX
+C	28	$584,000
+791	
+ 	
+Pete Fairbanks
+ TB
+RP	27	$583,800
+792	
+ 	
+Josh VanMeter
+ ARI
+2B	26	$583,400
+ 	
+Taylor Widener
+ ARI
+SP	26	$583,400
+794	
+ 	
+Sam Selman
+ LAA
+RP	30	$583,000
+ 	
+Tyler Rogers
+ SF
+RP	30	$583,000
+ 	
+Logan Webb
+ SF
+SP	24	$583,000
+797	
+ 	
+Taylor Hearn
+ TEX
+RP	26	$582,500
+798	
+ 	
+Kyle Finnegan
+ WSH
+RP/CL	29	$582,400
+ 	
+Josh Rojas
+ ARI
+SS	27	$582,400
+800	
+ 	
+Ryan Helsley
+ STL
+RP	26	$582,300
+ 	
+Diego Castillo
+ SEA
+RP	27	$582,300
+802	
+ 	
+Anthony Alford
+ PIT
+CF	26	$582,000
+803	
+ 	
+Harold Castro
+ DET
+3B	27	$581,700
+804	
+ 	
+Christian Arroyo
+ BOS
+SS	26	$581,500
+805	
+ 	
+Randy Arozarena
+ TB
+LF	26	$581,200
+ 	
+Cody Reed
+ TB
+RP	28	$581,200
+807	
+ 	
+Genesis Cabrera
+ STL
+RP	24	$580,900
+ 	
+Trevor Richards
+ TOR
+RP	28	$580,900
+809	
+ 	
+Luis Guillorme
+ NYM
+SS	26	$580,701
+810	
+ 	
+Luis Torrens
+ SEA
+C	25	$580,700
+811	
+ 	
+Garrett Hampson
+ COL
+2B	26	$580,500
+ 	
+Tyler Kinley
+ COL
+RP	30	$580,500
+ 	
+Huascar Ynoa
+ ATL
+RP	23	$580,500
+ 	
+Anthony Gonsolin
+ LAD
+RP	27	$580,500
+ 	
+Gavin Lux
+ LAD
+SS	23	$580,500
+ 	
+Tejay Antone
+ CIN
+RP	27	$580,500
+ 	
+Nick Senzel
+ CIN
+3B	26	$580,500
+ 	
+Alex Jackson
+ MIA
+C	25	$580,500
+ 	
+Cody Ponce
+ PIT
+RP	27	$580,500
+ 	
+J.B. Wendelken
+ ARI
+RP/CL	28	$580,500
+ 	
+Shed Long
+ SEA
+2B	25	$580,500
+ 	
+Josh Taylor
+ BOS
+RP	28	$580,500
+ 	
+Ramon Laureano
+ OAK
+CF	26	$580,500
+824	
+ 	
+Austin Adams
+ SD
+RP	30	$580,200
+825	
+ 	
+Luis Garcia
+ HOU
+RP	24	$580,100
+826	
+ 	
+Joel Payamps
+ KC
+RP	27	$580,000
+ 	
+Tanner Scott
+ BAL
+RP	26	$580,000
+828	
+ 	
+Gregory Soto
+ DET
+RP/CL	26	$579,600
+829	
+ 	
+Andrew Knizner
+ STL
+C	26	$579,200
+830	
+ 	
+Andrew Stevenson
+ WSH
+OF	27	$579,100
+831	
+ 	
+Aristides Aquino
+ CIN
+RF	27	$579,000
+ 	
+Elieser Hernandez
+ MIA
+SP	26	$579,000
+ 	
+David Bednar
+ PIT
+RP/CL	26	$579,000
+ 	
+Blake Cederlind
+ PIT
+RP	25	$579,000
+ 	
+Mitch Keller
+ PIT
+SP	25	$579,000
+836	
+ 	
+Tyler Alexander
+ DET
+SP	26	$578,800
+837	
+ 	
+Anthony Misiewicz
+ SEA
+RP	26	$578,700
+838	
+ 	
+Austin Hays
+ BAL
+LF	25	$578,500
+ 	
+Willi Castro
+ DET
+SS	24	$578,500
+ 	
+Darwinzon Hernandez
+ BOS
+RP	24	$578,500
+ 	
+Phillips Valdez
+ BOS
+RP	29	$578,500
+842	
+ 	
+Julian Merryweather
+ TOR
+RP	29	$578,400
+843	
+ 	
+Jake Woodford
+ STL
+RP	24	$578,300
+844	
+ 	
+Billy McKinney
+ LAD
+OF	26	$578,100
+845	
+ 	
+Roman Quinn
+ PHI
+CF	28	$578,000
+846	
+ 	
+Colin Poche
+ TB
+RP	27	$577,800
+847	
+ 	
+Tomas Nido
+ NYM
+C	27	$577,720
+848	
+ 	
+Josh Naylor
+ CLE
+RF	24	$577,500
+ 	
+Nate Pearson
+ TOR
+SP	24	$577,500
+850	
+ 	
+Ryan Thompson
+ TB
+RP	29	$577,200
+851	
+ 	
+Dylan Carlson
+ STL
+LF	22	$577,100
+ 	
+Andres Gimenez
+ CLE
+SS	22	$577,100
+853	
+ 	
+Cedric Mullins
+ BAL
+CF	26	$577,000
+ 	
+D.J. Stewart
+ BAL
+LF	27	$577,000
+ 	
+Christian McGowan
+ PHI
+P	21	$577,000
+ 	
+Tanner Houck
+ BOS
+SP	25	$577,000
+857	
+ 	
+Bradley Zimmer
+ CLE
+CF	28	$576,700
+858	
+ 	
+Bryan Garcia
+ DET
+RP	26	$576,600
+859	
+ 	
+Cody Stashak
+ MIN
+RP	27	$576,000
+860	
+ 	
+Edmundo Sosa
+ STL
+SS	25	$575,900
+861	
+ 	
+Yency Almonte
+ COL
+RP	27	$575,500
+ 	
+Austin Gomber
+ COL
+SP	27	$575,500
+ 	
+Sam Hilliard
+ COL
+OF	27	$575,500
+ 	
+Ian Anderson
+ ATL
+SP	23	$575,500
+ 	
+Brendan Rodgers
+ COL
+SS	24	$575,500
+ 	
+Jorge Alcala
+ MIN
+RP	25	$575,500
+ 	
+Ryan Jeffers
+ MIN
+C	24	$575,500
+ 	
+Jesus Luzardo
+ MIA
+SP	23	$575,500
+ 	
+Michael Chavis
+ PIT
+2B	25	$575,500
+ 	
+Sean Murphy
+ OAK
+C	26	$575,500
+871	
+ 	
+Triston McKenzie
+ CLE
+SP	23	$575,300
+872	
+ 	
+Luis Urias
+ MIL
+3B	24	$575,100
+873	
+ 	
+Elias Reynoso
+ STL
+SS	17	$575,000
+ 	
+Jose Castillo
+ SD
+RP	25	$575,000
+ 	
+Erick Fedde
+ WSH
+SP	28	$575,000
+ 	
+Patrick Murphy
+ WSH
+SP	26	$575,000
+ 	
+Michael Hermosillo
+ CHC
+CF	26	$575,000
+ 	
+Jesus Sanchez
+ MIA
+OF	23	$575,000
+ 	
+Rony Garcia
+ DET
+RP	23	$575,000
+ 	
+Sam Howard
+ PIT
+RP	28	$575,000
+ 	
+Jose Peraza
+ NYM
+SS	27	$575,000
+ 	
+Andres Munoz
+ SEA
+RP	22	$575,000
+ 	
+Adolis Garcia
+ TEX
+OF	28	$575,000
+ 	
+Nate Lowe
+ TEX
+1B	25	$575,000
+ 	
+D.J. Peters
+ TEX
+OF	25	$575,000
+ 	
+Dennis Santana
+ TEX
+RP	25	$575,000
+ 	
+Zack Collins
+ CHW
+C	26	$575,000
+ 	
+Jimmy Cordero
+ CHW
+RP	29	$575,000
+ 	
+Jose Ruiz
+ CHW
+RP	26	$575,000
+ 	
+Jace Peterson
+ MIL
+2B	31	$575,000
+ 	
+Alec Bohm
+ PHI
+3B	24	$575,000
+ 	
+Bobby Dalbec
+ BOS
+1B	26	$575,000
+ 	
+Tyler Beede
+ SF
+RP	28	$575,000
+ 	
+Rico Garcia
+ SF
+SP	27	$575,000
+895	
+ 	
+Ryan Mountcastle
+ BAL
+1B	24	$574,500
+ 	
+Cole Sulser
+ BAL
+RP	31	$574,500
+ 	
+Dillon Tate
+ BAL
+RP	27	$574,500
+ 	
+Drew Smith
+ NYM
+RP	27	$574,500
+899	
+ 	
+Tarik Skubal
+ DET
+SP	24	$574,300
+ 	
+Sam Haggerty
+ SEA
+2B	27	$574,300
+901	
+ 	
+Michel Baez
+ SD
+SP	25	$574,200
+902	
+ 	
+Casey Mize
+ DET
+SP	24	$574,100
+903	
+ 	
+Hunter Harvey
+ BAL
+RP/CL	26	$574,000
+ 	
+Wil Crowe
+ PIT
+SP	26	$574,000
+ 	
+Jonah Heim
+ TEX
+C	26	$574,000
+ 	
+Leodys Taveras
+ TEX
+CF	22	$574,000
+907	
+ 	
+Willians Astudillo
+ MIN
+C	29	$573,500
+ 	
+Alejandro Kirk
+ TOR
+C	22	$573,500
+ 	
+Kyle Cody
+ TEX
+RP	26	$573,500
+ 	
+Josh Sborz
+ TEX
+RP	27	$573,500
+911	
+ 	
+Javier Guerra
+ SD
+RP	25	$573,100
+912	
+ 	
+Cole Irvin
+ OAK
+SP	27	$573,000
+ 	
+Drew Rasmussen
+ TB
+RP	25	$573,000
+ 	
+Adbert Alzolay
+ CHC
+SP	26	$573,000
+ 	
+Justin Topa
+ MIL
+RP	30	$573,000
+ 	
+Sam Coonrod
+ PHI
+RP	28	$573,000
+917	
+ 	
+Adrian Morejon
+ SD
+SP	22	$572,900
+918	
+ 	
+Yadiel Hernandez
+ WSH
+OF	33	$572,600
+919	
+ 	
+Yonathan Daza
+ COL
+RF	27	$572,500
+ 	
+Dom Nunez
+ COL
+C	26	$572,500
+ 	
+Dane Dunning
+ TEX
+SP	26	$572,500
+ 	
+John King
+ TEX
+RP	26	$572,500
+ 	
+Eli White
+ TEX
+OF	27	$572,500
+924	
+ 	
+J.P. Feyereisen
+ TB
+RP	28	$572,400
+925	
+ 	
+Jake Fraley
+ SEA
+OF	26	$572,100
+926	
+ 	
+Garrett Crochet
+ CHW
+RP	22	$572,000
+ 	
+Mark Mathias
+ MIL
+2B	26	$572,000
+928	
+ 	
+Jorge Mateo
+ BAL
+SS	26	$571,800
+ 	
+Emmanuel Clase
+ CLE
+RP/CL	23	$571,800
+930	
+ 	
+Jazz Chisholm
+ MIA
+2B	23	$571,750
+931	
+ 	
+Austin Nola
+ SD
+C	31	$571,500
+ 	
+Ramon Urias
+ BAL
+2B	27	$571,500
+ 	
+Bruce Zimmermann
+ BAL
+SP	26	$571,500
+ 	
+Logan Allen
+ CLE
+SP	24	$571,500
+ 	
+Connor Brogdon
+ PHI
+RP	26	$571,500
+936	
+ 	
+Magneuris Sierra
+ MIA
+CF	25	$571,375
+937	
+ 	
+Yu-Cheng Chang
+ CLE
+SS	25	$571,100
+938	
+ 	
+Domingo Acevedo
+ OAK
+RP	27	$570,500
+ 	
+Sam Delaplane
+ SF
+RP	26	$570,500
+ 	
+Camilo Doval
+ SF
+RP/CL	23	$570,500
+ 	
+Hunter Wood
+ TEX
+RP	27	$570,500
+ 	
+Garrett Whitlock
+ BOS
+RP/CL	25	$570,500
+ 	
+Steven Duggar
+ SF
+CF	27	$570,500
+ 	
+Luis Barrera
+ OAK
+OF	25	$570,500
+ 	
+Paul Blackburn
+ OAK
+RP	27	$570,500
+ 	
+Luis Gonzalez
+ SF
+CF	25	$570,500
+ 	
+Skye Bolt
+ OAK
+CF	27	$570,500
+ 	
+Adonis Medina
+ PHI
+SP	24	$570,500
+ 	
+Jay Jackson
+ SF
+RP	33	$570,500
+ 	
+Seth Brown
+ OAK
+1B	28	$570,500
+ 	
+Dominic Leone
+ SF
+RP	29	$570,500
+ 	
+Khris Davis
+ OAK
+DH	33	$570,500
+ 	
+Zack Littell
+ SF
+RP	25	$570,500
+ 	
+Jesse Chavez
+ ATL
+RP	37	$570,500
+ 	
+Deolis Guerra
+ OAK
+RP	32	$570,500
+ 	
+William Contreras
+ ATL
+C	23	$570,500
+ 	
+JoJo Romero
+ PHI
+RP	24	$570,500
+ 	
+Dedniel Nunez
+ SF
+RP	25	$570,500
+ 	
+Tucker Davidson
+ ATL
+SP	25	$570,500
+ 	
+Daulton Jefferies
+ OAK
+SP	25	$570,500
+ 	
+Julian Fernández
+ COL
+RP	25	$570,500
+ 	
+James Kaprielian
+ OAK
+SP	27	$570,500
+ 	
+Cristopher Sanchez
+ PHI
+P	24	$570,500
+ 	
+Dylan Lee
+ ATL
+P	26	$570,500
+ 	
+Lucas Gilbreath
+ COL
+SP	25	$570,500
+ 	
+Phil Bickford
+ LAD
+RP	25	$570,500
+ 	
+Ashton Goudeau
+ COL
+SP	28	$570,500
+ 	
+Justin Bruihl
+ LAD
+RP	24	$570,500
+ 	
+Pete Kozma
+ OAK
+SS	33	$570,500
+ 	
+Ranger Suarez
+ PHI
+SP	25	$570,500
+ 	
+LaMonte Wade
+ SF
+CF	27	$570,500
+ 	
+Edgar Santana
+ ATL
+RP	29	$570,500
+ 	
+Connor Joe
+ COL
+1B	28	$570,500
+ 	
+Garrett Cleavinger
+ LAD
+SP	27	$570,500
+ 	
+Spencer Strider
+ ATL
+P	22	$570,500
+ 	
+Justin Lawrence
+ COL
+RP	26	$570,500
+ 	
+Jacob Webb
+ ATL
+RP	27	$570,500
+ 	
+Andre Jackson
+ LAD
+RP	25	$570,500
+ 	
+Matt Vierling
+ PHI
+OF	24	$570,500
+ 	
+Vimael Machin
+ OAK
+2B	27	$570,500
+ 	
+Shane Baz
+ TB
+SP	22	$570,500
+ 	
+Antonio Santos
+ COL
+SP	24	$570,500
+ 	
+Jordan Sheffield
+ COL
+RP	26	$570,500
+ 	
+Sam Moll
+ OAK
+RP	29	$570,500
+ 	
+J.T. Chargois
+ TB
+RP	30	$570,500
+ 	
+Evan Phillips
+ LAD
+RP	26	$570,500
+ 	
+Albert Pujols
+ LAD
+DH	41	$570,500
+ 	
+Adam Conley
+ TB
+RP	31	$570,500
+ 	
+Colton Welker
+ COL
+3B	23	$570,500
+ 	
+Josh Fleming
+ TB
+SP	25	$570,500
+ 	
+Jimmie Sherfy
+ LAD
+RP	29	$570,500
+ 	
+Wander Franco
+ TB
+SS	20	$570,500
+ 	
+Alex Vesia
+ LAD
+RP	25	$570,500
+ 	
+D.J. Johnson
+ TB
+RP	31	$570,500
+ 	
+Greg Allen
+ NYY
+OF	28	$570,500
+ 	
+Chris Mazza
+ TB
+RP	31	$570,500
+ 	
+Shane McClanahan
+ TB
+SP	24	$570,500
+ 	
+Rob Brantly
+ NYY
+C	31	$570,500
+ 	
+Charlie Barnes
+ MIN
+SP	25	$570,500
+ 	
+Kyle Barraclough
+ MIN
+RP	31	$570,500
